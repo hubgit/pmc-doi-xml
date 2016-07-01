@@ -1,0 +1,12 @@
+{
+    "name": "hubgit/pmc-doi-xml",
+    "require": {
+        "guzzlehttp/guzzle": "^6.2"
+    },
+    "authors": [
+        {
+            "name": "Alf Eaton",
+            "email": "eaton.alf@gmail.com"
+        }
+    ]
+}
